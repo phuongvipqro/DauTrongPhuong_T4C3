@@ -2,7 +2,7 @@
 
 ## 👋 Giới thiệu về tôi
 
-Xin chào và cảm ơn bạn đã ghé thăm trang cá nhân của tôi! Tôi là **Đậu Trọng Phương**, một lập trình viên đam mê công nghệ với hơn [số năm kinh nghiệm] năm kinh nghiệm trong **lập trình web** và phát triển phần mềm. Từ khi bắt đầu sự nghiệp của mình, tôi đã luôn tìm kiếm cơ hội để học hỏi và không ngừng phát triển bản thân, cũng như áp dụng các công nghệ mới nhất vào công việc hàng ngày.
+Xin chào và cảm ơn bạn đã ghé thăm trang cá nhân của tôi! Tôi là **Đậu Trọng Phương**, một lập trình viên đam mê công nghệ với hơn 2 năm kinh nghiệm trong **lập trình web** và phát triển phần mềm. Từ khi bắt đầu sự nghiệp của mình, tôi đã luôn tìm kiếm cơ hội để học hỏi và không ngừng phát triển bản thân, cũng như áp dụng các công nghệ mới nhất vào công việc hàng ngày.
 
 Tôi không chỉ yêu thích việc viết mã, mà còn đam mê việc giải quyết các vấn đề phức tạp thông qua công nghệ. Đặc biệt, tôi tập trung vào việc xây dựng các ứng dụng web hiệu quả, có thể mở rộng và tối ưu hóa, từ giao diện người dùng đến hệ thống cơ sở dữ liệu và các quy trình backend.
 
