@@ -11,24 +11,24 @@ Mục tiêu của tôi là phát triển những ứng dụng không chỉ hoạ
 ## 🛠️ **Kỹ năng và công nghệ**  
 
 ### 💻 **Frontend Development**  
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+- **HTML5** 🌐
+- **CSS3** 🎨
+- **JavaScript** ⚡
 
 ### 🚀 **Backend Development**  
-- **Node.js**
-- **Express.js**
+- **Node.js** 🚀
+- **Express.js** 🛤️
 
 ### 🗄️ **Cơ sở dữ liệu**  
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
+- **MySQL** 🗄️
+- **PostgreSQL** 🐘
+- **MongoDB** 🍃
 
 ### 🛠️ **Công cụ và công nghệ khác**  
-- **Git & GitHub**
-- **Docker**
-- **Kubernetes**
-- **AWS**
+- **Git & GitHub** 🐙
+- **Docker** 🐳
+- **Kubernetes** ☸️
+- **AWS** ☁️
 
 ## 📚 **Dự án hiện tại**  
 Hiện tại, tôi đang làm việc với **Hệ thống Đặt phòng Khách sạn**. Đây là một dự án đầy thử thách và sáng tạo, với mục tiêu tạo ra một nền tảng giúp khách hàng có thể dễ dàng tìm kiếm và đặt phòng khách sạn phù hợp. Hệ thống này có các tính năng như:
@@ -37,10 +37,10 @@ Hiện tại, tôi đang làm việc với **Hệ thống Đặt phòng Khách s
 - Quản lý người dùng với nhiều quyền truy cập khác nhau.
 - Báo cáo doanh thu chi tiết cho quản trị viên.
 
-Dự án sử dụng **React.js** cho frontend và **Node.js** cho backend, giúp xây dựng các API nhanh chóng và dễ duy trì. Tôi cũng chú trọng đến việc tối ưu hóa bảo mật và khả năng mở rộng của hệ thống.
+Dự án sử dụng **React.js** ⚛️ cho frontend và **Node.js** 🚀 cho backend, giúp xây dựng các API nhanh chóng và dễ duy trì. Tôi cũng chú trọng đến việc tối ưu hóa bảo mật và khả năng mở rộng của hệ thống.
 
 ## 🚀 **Dự án tương lai**  
-Với mục tiêu không ngừng cải thiện và nâng cao các dự án của mình, tôi dự định sẽ nghiên cứu về **AI & Machine Learning**. Tôi tin rằng việc kết hợp AI vào hệ thống đặt phòng khách sạn sẽ giúp cá nhân hóa trải nghiệm người dùng một cách thông minh và hiệu quả hơn. Ngoài ra, tôi còn tìm hiểu thêm về **DevOps**, một lĩnh vực giúp tối ưu hóa quy trình phát triển, triển khai và duy trì hệ thống. Các công cụ như **Docker**, **Kubernetes** và các dịch vụ đám mây sẽ là chìa khóa giúp tôi triển khai ứng dụng một cách hiệu quả, tiết kiệm chi phí và giảm thiểu rủi ro.
+Với mục tiêu không ngừng cải thiện và nâng cao các dự án của mình, tôi dự định sẽ nghiên cứu về **AI & Machine Learning** 🤖. Tôi tin rằng việc kết hợp AI vào hệ thống đặt phòng khách sạn sẽ giúp cá nhân hóa trải nghiệm người dùng một cách thông minh và hiệu quả hơn. Ngoài ra, tôi còn tìm hiểu thêm về **DevOps** 🛠️, một lĩnh vực giúp tối ưu hóa quy trình phát triển, triển khai và duy trì hệ thống. Các công cụ như **Docker** 🐳, **Kubernetes** ☸️ và các dịch vụ đám mây sẽ là chìa khóa giúp tôi triển khai ứng dụng một cách hiệu quả, tiết kiệm chi phí và giảm thiểu rủi ro.
 
 ## 📫 **Liên hệ**  
 Nếu bạn muốn trao đổi thêm hoặc hợp tác trong các dự án công nghệ, đừng ngần ngại liên hệ với tôi qua các phương thức sau:
@@ -53,4 +53,3 @@ Rất mong được làm việc và chia sẻ kinh nghiệm cùng bạn! 😊
 ---
 
 Cảm ơn bạn đã dành thời gian xem qua trang README của tôi. Hãy kết nối và chia sẻ những ý tưởng tuyệt vời để chúng ta có thể cùng nhau phát triển những dự án đột phá! 🚀✨
-
