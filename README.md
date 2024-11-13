@@ -1,6 +1,6 @@
 # 🌟 Chào mừng đến với trang README của Đậu Trọng Phương! 🌟
 
-## 👋 **Giới thiệu về tôi**  
+## 👋 Giới thiệu về tôi  
 Xin chào và cảm ơn bạn đã ghé thăm trang cá nhân của tôi! Tôi là Đậu Trọng Phương, một lập trình viên đam mê công nghệ với hơn 2 năm kinh nghiệm trong lập trình web và phát triển phần mềm. Mỗi ngày, tôi đều cố gắng tìm kiếm những cơ hội để học hỏi, sáng tạo và phát triển bản thân để có thể áp dụng những công nghệ mới nhất vào công việc. Hành trình sự nghiệp của tôi không chỉ là việc viết mã mà còn là việc giải quyết những bài toán khó qua công nghệ.
 
 Tôi đam mê xây dựng các ứng dụng web hiệu quả, dễ sử dụng và có thể mở rộng, từ giao diện người dùng cho đến việc tối ưu hóa các quy trình backend và cơ sở dữ liệu. Mỗi dự án là một thử thách mới và tôi luôn sẵn sàng đón nhận, khám phá và học hỏi từ đó.
