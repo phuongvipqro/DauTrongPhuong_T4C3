@@ -1,9 +1,3 @@
-Khi soạn thảo văn bản trong các trình chỉnh sửa hoặc trên các nền tảng như GitHub, các phần xuống dòng hoặc khoảng trống không được nhận diện như trong văn bản thông thường. Để mỗi phần nội dung của bạn hiện thành từng dòng riêng biệt trên GitHub README, hãy dùng dấu cách kép (`  `) ở cuối mỗi dòng hoặc thêm một dòng trống giữa các đoạn văn bản. Ngoài ra, bạn có thể dùng các tiêu đề markdown như `##` hoặc `###` để chia nhỏ các phần.
-
-Dưới đây là phiên bản README đã được chia rõ các dòng và phần:
-
----
-
 # 🌟 Chào mừng đến với trang README của Đậu Trọng Phương! 🌟
 
 ## 👋 Giới thiệu
